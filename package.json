@@ -1,0 +1,25 @@
+{
+  "name": "herbatkaaa",
+  "version": "1.0.0",
+  "description": "This is something intrsted about TEA and basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weseu0131/Herbatkaaa.git"
+  },
+  "dependencies": {
+    "herbatkaaa": "1.0.0",
+    "minti_fulkerson": "0.1.4",
+    "1337blacket": "1.0.0",
+    "herewegotea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weseu0131/Herbatkaaa/issues"
+  },
+  "homepage": "https://github.com/weseu0131/Herbatkaaa#readme"
+}
